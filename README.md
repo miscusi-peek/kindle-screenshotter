@@ -4,6 +4,7 @@
 Screenshot all your kindle ebooks from the browser.
 
 # Instructions
-Open the ebook in browser, press start and it should start screenshotting!
+1. Add this script to tampermonkey
+2.Open the ebook in browser, press start and it should start screenshotting!
 
 If this repo gets traction, I'll add the script that transforms the screenshots into .epub / .pdf files :)
